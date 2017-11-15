@@ -1,0 +1,15 @@
+{
+    "extends": "rallycoding",
+    "rules": {
+        "max-len": 0,
+        "arrow-body-style": 0,
+        "react/jsx-first-prop-new-line": 0,
+        "react/jsx-closing-bracket-location": 0,
+        "import/no-unresolved": 0,
+        "global-require": 0,
+        "camelcase": 0,
+        "padded-blocks": 0,
+        "no-useless-escape": 0,
+        "react/sort-comp": 0
+    }
+}
